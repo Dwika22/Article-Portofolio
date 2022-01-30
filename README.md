@@ -3,8 +3,9 @@
 - You can contact me at DwikaFebrinila@Gmail.com
 
 ## LINK TO ARTICLES
-- Berkeliling di Pulau Kaia di Play Together : Game Guides/Berkeliling di Pulau Kaia di Play Together.md
-- Berkenalan dengan Game Party di Game Play Together
+- Berkeliling di Pulau Kaia di Play Together: https://github.com/Dwika22/Article-Portofolio/blob/8ff4c2d56512e0bd2d906261288da5a9fc130f3e/Game%20Guides/Berkeliling%20di%20Pulau%20Kaia%20di%20Play%20Together.md
+
+- Berkenalan dengan Game Party di Game Play Together:
 - Elemental Master Menciptakan Dewa dengan Beribu Kekuatan
 - Intip Serunya Early Access Game Echoes of Magic
 - Main dan Rasakan Serunya Dynasty Origins
