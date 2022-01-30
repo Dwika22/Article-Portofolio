@@ -3,6 +3,9 @@
 - You can contact me at DwikaFebrinila@Gmail.com
 
 ## LINK TO ARTICLES
+- Majalah Kansas, Edisi 3, Tahun 2020, Halaman 35
+https://github.com/Dwika22/Article-Portofolio/blob/36bc7c4e6bf64c4f0b117a811a285cf94df1edfe/Majalah%20Published/kansas%203-21.pdf
+
 - Berkeliling di Pulau Kaia di Play Together: 
 https://github.com/Dwika22/Article-Portofolio/blob/8ff4c2d56512e0bd2d906261288da5a9fc130f3e/Game%20Guides/Berkeliling%20di%20Pulau%20Kaia%20di%20Play%20Together.md
 
