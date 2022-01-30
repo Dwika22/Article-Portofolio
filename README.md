@@ -1,3 +1,3 @@
 ## ABOUT THIS REPOSITORY
-- THIS IS A REPOSITORY OF ARTICLES MADE BY DWIKA FEBRINILA
-- YOU CAN CONTACT ME AT : FEBRINILADWIKA@GMAIL.COM
+- This is a reposiroty of articles made by Dwika Febrinila
+- You can contact me at DwikaFebrinila@Gmail.com
