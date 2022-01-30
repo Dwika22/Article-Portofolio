@@ -45,7 +45,7 @@ sekolah pada malam hari, di mana para zombie sedang berkeliaran di dalam
 sekolah, kalau kamu kena gigit, kamu akan langsung dilempar keluar
 sekolah, *hiiii* seram sekali, kan?
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image1.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image1.jpeg){width="6.5in"
 height="3.0597222222222222in"}
 
 **Toko Perlengkapan Pancing**
@@ -56,7 +56,7 @@ dermaga mempermudah kamu saat ingin melakukan jual-beli hewan laut yang
 sudah kamu tangkap. Selain itu, kamu juga bisa membeli alat pancing yang
 lebih bagus agar hasil tangkapan kamu semakin berkualitas.
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image2.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image2.jpeg){width="6.5in"
 height="3.0597222222222222in"}
 
 **Pet Shop**
@@ -67,7 +67,7 @@ Selain mendapat hewan kesayangan kamu, kamu juga bisa membeli
 perlengkapan mereka di sini seperti tempat tidur, tempat mandi, makanan,
 dan juga alat bermain. Pokoknya lengkap, deh!
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image3.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image3.jpeg){width="6.5in"
 height="3.0680555555555555in"}
 
 **Skatepark**
@@ -79,7 +79,7 @@ kamu sudah punya skateboard setelah menyelesaikan misi pemula, kamu bisa
 nih mencoba melompat dengan skateboard kamu di skatepark agar pengalaman
 bermain skateboard kamu semakin seru dan menyenangkan.
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image4.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image4.jpeg){width="6.5in"
 height="3.066666666666667in"}
 
 **Toko Mebel**
@@ -92,7 +92,7 @@ menyediakan beberapa tema unik yang bisa langsung kamu coba sebagai
 *preview* agar kamu bisa membayangkan asyiknya saat peralatan tersebut
 sudah berada di dalam rumah kamu.
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image5.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image5.jpeg){width="6.5in"
 height="3.0506944444444444in"}
 
 **Toko Alat Musik**
@@ -103,7 +103,7 @@ membelikan karakter kesayanganmu sebuah alat musik favoritmu. Kalau kamu
 ingin bersantai, kamu juga bisa memilih untuk duduk di samping Guitar
 Man dan mendengarnya bermain gitar, *lho*.
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image6.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image6.jpeg){width="6.5in"
 height="3.0722222222222224in"}
 
 **Playground**
@@ -122,7 +122,7 @@ Tentunya kamu bisa melihat harga barangnya terlebih dahulu agar kamu
 tidak kehabisan tabungan stars yang kamu miliki. Kalau dilihat-lihat,
 tempat ini mengingatkan kita dengan toko swalayan dekat rumah, ya?
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image7.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image7.jpeg){width="6.5in"
 height="3.0652777777777778in"}
 
 **Game Center**
@@ -133,7 +133,7 @@ besar menjulang membuat kamu mudah mencari tempat ini. Kalau kamu ingin
 bertanding dengan player lain, kamu bisa langsung datang ke tempat ini,
 ya!
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image8.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image8.jpeg){width="6.5in"
 height="3.0555555555555554in"}
 
 **Taman Plaza**
@@ -145,7 +145,7 @@ berada di tempat ini. Ada juga kolam ikan yang terdapat larangan untuk
 memancing, kalau kamu ingin melanggar aturan, kamu tetap bisa memancing
 di sana dan menjual hasil tangkapanmu ke toko perlengkapan pancing.
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image9.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image9.jpeg){width="6.5in"
 height="3.104861111111111in"}
 
 **Permintaan dan Tantangan dari NPC**
@@ -164,7 +164,7 @@ untuk mengantarkan pizza ke tiga pelanggannya. Kamu hanya perlu
 menggunakan skateboard atau kendaraan lain supaya kamu tidak kalah cepat
 dari waktu yang diberikan untuk mengantarnya.
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image10.jpeg){width="5.197916666666667in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image10.jpeg){width="5.197916666666667in"
 height="2.925in"}
 
 **Victor**
@@ -211,7 +211,7 @@ melalui android yang membatasi pergerakan kamu, kamu bisa mengunduh
 emulator game android LDPlayer di PC atau laptop kamu, *lho*. Nanti kami
 kasih tahu cara mengunduhnya, ya!
 
-![](./Game Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image11.jpeg){width="6.5in"
+![](./Game-Guides/images/Berkeliling-di-Pulai-Kaia-di-Play-Together/media/image11.jpeg){width="6.5in"
 height="3.120138888888889in"}
 
 **Kesimpulan**
