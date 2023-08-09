@@ -1,6 +1,6 @@
 ## ABOUT THIS REPOSITORY
 - This is a reposiroty of articles made by Dwika Febrinila
-- You can contact me at DwikaFebrinila@Gmail.com
+- You can contact me at febriniladwika@gmail.com
 
 ## LINK TO ARTICLES
 - Majalah Kansas, Edisi 3, Tahun 2020, Halaman 35
